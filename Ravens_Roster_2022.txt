@@ -1,0 +1,61 @@
+ Offense
+NO 	Player 	POS 	HT 	WT 	DOB (AGE) 	EXP 	College
+12 	Anthony Brown	QB 	6-1 	217 	7/27/1998 (24) 	R 	Oregon
+2 	Tyler Huntley	QB 	6-1 	204 	2/3/1998 (24) 	3 	Utah
+8 	Lamar Jackson	QB 	6-2 	230 	1/7/1997 (26) 	5 	Louisville
+27 	J.K. Dobbins	RB 	5-10 	212 	12/17/1998 (24) 	3 	Ohio State
+17 	Kenyan Drake	RB 	6-1 	216 	1/26/1994 (28) 	7 	Alabama
+35 	Gus Edwards	RB 	6-1 	238 	4/13/1995 (27) 	5 	Rutgers
+43 	Justice Hill	RB 	5-10 	200 	11/14/1997 (25) 	4 	Oklahoma State
+42 	Patrick Ricard	FB 	6-3 	305 	5/27/1994 (28) 	6 	Maine
+83 	Andy Isabella	WR 	5-9 	188 	11/18/1996 (26) 	4 	UMass
+3 	James Proche	WR 	5-11 	191 	9/20/1996 (26) 	3 	SMU
+10 	Demarcus Robinson	WR 	6-1 	203 	9/21/1994 (28) 	7 	Florida
+81 	Ben Victor	WR 	6-4 	199 	1/15/1997 (26) 	1 	Ohio State
+82 	Sammy Watkins	WR 	6-1 	211 	6/14/1993 (29) 	9 	Clemson
+89 	Mark Andrews	TE 	6-5 	247 	9/6/1995 (27) 	5 	Oklahoma
+88 	Charlie Kolar	TE 	6-6 	250 	2/10/1999 (23) 	R 	Iowa St.
+80 	Isaiah Likely	TE 	6-4 	241 	4/18/2000 (22) 	R 	C. Carolina
+84 	Josh Oliver	TE 	6-5 	259 	3/21/1997 (25) 	4 	San Jose St.
+63 	Trystan Colon-Castillo	C 	6-3 	320 	3/23/1998 (24) 	3 	Missouri
+64 	Tyler Linderbaum	C 	6-2 	305 	4/7/2000 (22) 	R 	Iowa
+77 	Daniel Faalele	OT 	6-8 	380 	11/9/1999 (23) 	R 	Minnesota
+65 	Patrick Mekari	OT 	6-4 	305 	8/13/1997 (25) 	4 	California
+78 	Morgan Moses	OT 	6-6 	320 	3/3/1991 (31) 	9 	Virginia
+79 	Ronnie Stanley	OT 	6-6 	315 	3/18/1994 (28) 	7 	Notre Dame
+72 	Ben Powers	OG 	6-4 	338 	10/29/1996 (26) 	4 	Oklahoma
+70 	Kevin Zeitler	OG 	6-4 	339 	3/8/1990 (32) 	11 	Wisconsin
+Defense
+NO 	Player 	POS 	HT 	WT 	DOB (AGE) 	EXP 	College
+93 	Calais Campbell	DE 	6-8 	307 	9/1/1986 (36) 	15 	Miami (Fla.)
+92 	Justin Madubuike	DE 	6-3 	293 	11/17/1997 (25) 	3 	Texas A&M
+97 	Brent Urban	DE 	6-7 	309 	5/5/1991 (31) 	9 	Virginia
+96 	Broderick Washington	DE 	6-2 	314 	12/4/1996 (26) 	3 	Texas Tech
+98 	Travis Jones	NT 	6-4 	334 	10/15/1999 (23) 	R 	UConn
+50 	Justin Houston	OLB 	6-3 	270 	1/21/1989 (33) 	12 	Georgia
+99 	Odafe Oweh	OLB 	6-5 	257 	12/15/1998 (24) 	2 	Penn State
+4 	Jason Pierre-Paul	OLB 	6-5 	275 	1/1/1989 (34) 	13 	South Florida
+6 	Patrick Queen	OLB 	6-0 	237 	8/13/1999 (23) 	3 	LSU
+40 	Malik Harrison	ILB 	6-3 	259 	3/5/1998 (24) 	3 	Ohio State
+58 	Roquan Smith	ILB 	6-1 	236 	4/8/1997 (25) 	5 	Georgia
+54 	Tyus Bowser	LB 	6-3 	242 	5/23/1995 (27) 	6 	Houston
+90 	David Ojabo	LB 	6-4 	255 	5/17/2000 (22) 	R 	Michigan
+53 	Del'Shawn Phillips	LB 	6-2 	230 	10/9/1996 (26) 	3 	Illinois
+49 	Julian Stanford	LB 	6-1 	230 	9/2/1990 (32) 	9 	Wagner
+57 	Kristian Welch	LB 	6-3 	242 	5/24/1998 (24) 	3 	Iowa
+44 	Marlon Humphrey	CB 	6-0 	205 	7/8/1996 (26) 	6 	Alabama
+24 	Marcus Peters	CB 	6-0 	197 	1/9/1993 (30) 	8 	Washington
+25 	Kevon Seymour	CB 	6-0 	185 	11/30/1993 (29) 	5 	USC
+21 	Brandon Stephens	CB 	6-1 	215 	12/29/1997 (25) 	2 	SMU
+22 	Damarion Williams	CB 	5-10 	180 	7/15/1998 (24) 	R 	Houston
+41 	Daryl Worley	CB 	6-1 	210 	2/22/1995 (27) 	7 	West Virginia
+14 	Kyle Hamilton	SAF 	6-4 	220 	3/16/2001 (21) 	R 	Notre Dame
+29 	Ar'Darius Washington	SAF 	5-8 	176 	11/2/1999 (23) 	2 	TCU
+26 	Geno Stone	FS 	5-11 	209 	4/19/1999 (23) 	3 	Iowa
+32 	Marcus Williams	FS 	6-1 	207 	9/8/1996 (26) 	6 	Utah
+36 	Chuck Clark	SS 	6-0 	209 	4/19/1995 (27) 	6 	Virginia Tech
+Special Teams
+NO 	Player 	POS 	HT 	WT 	DOB (AGE) 	EXP 	College
+9 	Justin Tucker	K 	6-1 	183 	11/21/1989 (33) 	11 	Texas
+11 	Jordan Stout	P 	6-3 	214 	8/4/1998 (24) 	R 	Penn State
+46 	Nick Moore	LS 	6-2 	253 	12/9/1992 (30) 	2 	Georgia 
